@@ -1,4 +1,4 @@
-Hi 👋🏻 I'm Mattia, a Growth Marketer with some web developer skills for managing digital business and e-commerce ⚙️
+Hi 👋🏻 I'm Mattia, a Growth Marketer with a mix of creative and technical skills ⚙️
 <!--
 **mattiarighinidev/mattiarighinidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
